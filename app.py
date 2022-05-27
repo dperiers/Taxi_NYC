@@ -38,3 +38,4 @@ prediction = response.json()
 pred = prediction['fare']
 
 pred
+pred
